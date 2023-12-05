@@ -1,0 +1,33 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.heading{
+    width: 100%;
+    color:darkturquoise;
+    font-size: 25px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.notecss {
+    font-size: 15px ;
+  color :limegreen;
+}
+
+.footer {
+    bottom: 0px;
+    position: fixed;
+    font-size: 20px;
+    background-color: firebrick;
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+canvas {
+    border: 3px ridge darkviolet;
+    border-radius: 29px;
+    box-shadow: 5px 5px 5px yellow;
+    
+}
